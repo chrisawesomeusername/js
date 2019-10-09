@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-family: "courier new";
+  font-weight: lighter;
+}
+
+body{
+  height: 90vh;
+  margin: 20px;
+  padding: 20px;
+  border: solid black 2px;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  border: solid black 2px;
+
+}
